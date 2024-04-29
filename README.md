@@ -1,4 +1,4 @@
-# Hi there, i'm Geovanne Marco! 👋🏾
+# Hi there, i'm Geovanne Marco ! 👋🏾
 Internship at PBH
 
 ## **🧑🏾 About me** 
