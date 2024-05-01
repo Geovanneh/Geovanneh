@@ -32,6 +32,7 @@ Every semester i develop projects together with college colleagues, this way we 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanne.marco@gmail.com)
 
 ##
+![](https://komarev.com/ghpvc/?username=geovanneh)
 
 <!--
 - 🔭 I’m currently working on ...
